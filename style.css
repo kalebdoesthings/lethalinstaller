@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+button{
+  color: blue;
+  width: 20%;
+  height: 20vh;
+  font-size: 50px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+  background-color: #181717;
+}
+
+button:hover {
+  opacity: 0.8;
+  border: 2px blue solid;
+  transform: scale(1.1);
+}
