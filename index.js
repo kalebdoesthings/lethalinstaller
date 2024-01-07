@@ -20,7 +20,7 @@ function Install() {
   window.open("ror2mm://v1/install/thunderstore.io/Jamil/Corporate_Restructure/1.0.5/")
   window.open("ror2mm://v1/install/thunderstore.io/FlipMods/TooManyEmotes/1.7.3/")
   window.open("ror2mm://v1/install/thunderstore.io/FlipMods/ObjectVolumeController/1.0.3/")
-  window.open("ror2mm://v1/install/thunderstore.io/Suskitech/AlwaysHearActiveWalkies/1.4.3/")
+  window.open("ror2mm://v1/install/thunderstore.io/Suskitech/AlwaysHearActiveWalkies/1.4.4/")
   window.open("ror2mm://v1/install/thunderstore.io/RugbugRedfern/Skinwalkers/2.0.1/")
   window.open("ror2mm://v1/install/thunderstore.io/HomelessGinger/MaskedEnemyOverhaul/2.2.1/")
     alert("Done! \nYou Should Have 10 Mods")
