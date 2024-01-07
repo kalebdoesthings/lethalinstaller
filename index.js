@@ -22,6 +22,7 @@ function Install() {
   window.open("ror2mm://v1/install/thunderstore.io/FlipMods/ObjectVolumeController/1.0.3/")
   window.open("ror2mm://v1/install/thunderstore.io/Suskitech/AlwaysHearActiveWalkies/1.4.3/")
   window.open("ror2mm://v1/install/thunderstore.io/RugbugRedfern/Skinwalkers/2.0.1/")
+  window.open("ror2mm://v1/install/thunderstore.io/HomelessGinger/MaskedEnemyOverhaul/2.2.1/")
     alert("Done! \nYou Should Have 9 Mods")
   }
   else {
